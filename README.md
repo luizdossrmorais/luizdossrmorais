@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizdossrmorais/)](https://www.linkedin.com/in/luizdossrmorais/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCFhg5-PLEolUovcsXVPEGAw?view_as=subscriber)](https://www.youtube.com/channel/UCFhg5-PLEolUovcsXVPEGAw?view_as=subscriber)
 
-Olá AMIGO !! 👋 Bem-vindo ao meu perfil
+Olá AMIGO(A) !! 👋 Bem-vindo ao meu perfil
 
 Meu nome é Luiz e...
 
