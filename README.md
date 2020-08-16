@@ -24,7 +24,8 @@ Olá AMIGO(A) !! 👋 Bem-vindo ao meu perfil
 
 Meu nome é Luiz e...
 
-- 😄 Conhecimento é PODER!
+
 - 📊 Tenho conhecimento com: HTML | CSS3 | SI
 - 📚 Atualmente estudando JAVA SE
 - 🌍 E eu também gosto de APRENDER e COMPARTILHAR CONHECIMENTO :)
+- 😄 Conhecimento é PODER!
