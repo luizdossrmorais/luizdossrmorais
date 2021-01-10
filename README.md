@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 👋 Bem-vindo ao meu perfil
 
 Meu nome é Luiz e...
+  A magnifica jornada pelo conhecimento me atrai, a constante busca em construir conhecimento com informações seguras, completas e confiáveis é minha meta, sou um estudante em constante aquisição de conhecimento. Meu Linkedin é meu mural de conquistas, e o GitHub é a oficina onde coloco em pratica, organizo e realizo a aplicação do conhecimento adquirido nas conquistas. Sou perfeccionista e detalhista na hora de aprender, quero captar cada detalhe, saber o porque de cada processo, sou feliz assim
 
 
 - 📊 Tenho conhecimento com: HTML5 | CSS3 | SI
