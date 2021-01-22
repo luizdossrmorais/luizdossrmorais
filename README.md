@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 👋 Bem-vindo ao meu perfil
 
-A magnifica jornada pelo conhecimento me atrai, a constante busca para construir conhecimento com informações seguras, completas e confiáveis é minha meta, sou um estudante em constante aquisição de conhecimento. Meu Linkedin é meu mural de conquistas, e o GitHub é a oficina onde coloco em pratica, organizo e realizo a aplicação do conhecimento adquirido nas conquistas. Sou perfeccionista e detalhista na hora de aprender, quero captar cada detalhe, saber o porque de cada processo, sou feliz assim
+A magnifica jornada pelo conhecimento me atrai, é uma constante busca para construir conhecimento com informações seguras, completas e confiáveis. Sou um estudante em constante aquisição de conhecimento. O Linkedin é meu mural de conquistas, e o GitHub é a oficina onde coloco em pratica, organizo e realizo a aplicação do conhecimento que foi adquirido nas conquistas. Sou perfeccionista e detalhista na hora de aprender, quero captar cada detalhe, saber o porque de cada processo, sou feliz assim
 
 
 - 📊 Tenho conhecimento com: HTML5 | CSS3 | SI
